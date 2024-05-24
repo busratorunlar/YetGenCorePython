@@ -1,0 +1,2 @@
+# YetGenCorePython
+Python öğrenme sürecim..
