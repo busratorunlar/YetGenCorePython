@@ -1,0 +1,2 @@
+urun_adi:su
+urun_fiyati:12.3
